@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'jacoco'
+}
+
+group 'SEP'
+version '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+application {
+    mainClassName = 'uk.ac.standrews.cs5031.Hangman'
+}
+
+run {
+    standardInput = System.in
+    args = ["--max-hints", "3", "resources/phrase_sources/single.txt"]
+}
+
+task srcJavadoc(type: Javadoc) {
+    options.memberLevel = JavadocMemberLevel.PRIVATE
+    source = sourceSets.main.allJava
+    classpath = configurations.compile
+}
+
+task testJavadoc(type: Javadoc) {
+    options.memberLevel = JavadocMemberLevel.PRIVATE
+    source = sourceSets.test.allJava
+    classpath = sourceSets.test.compileClasspath
+    destinationDir = file("${buildDir}/docs/testjavadoc")
+}

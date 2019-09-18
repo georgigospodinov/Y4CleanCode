@@ -1,0 +1,27 @@
+  0. Custom
+  1. Countries
+  2. Counties
+  3. Cities
+Pick a category [0, 1, 2, or 3]:
+----
+4 letters remaining.
+Lives remaining: 4
+Guess a letter or phrase (? for a hint [2 remaining]):
+Wrong!
+----
+4 letters remaining.
+Lives remaining: 3
+Guess a letter or phrase (? for a hint [2 remaining]):
+Wrong!
+----
+4 letters remaining.
+Lives remaining: 2
+Guess a letter or phrase (? for a hint [2 remaining]):
+Wrong!
+----
+4 letters remaining.
+Lives remaining: 1
+Guess a letter or phrase (? for a hint [2 remaining]):
+Wrong!
+You lost!
+Phrase: Word

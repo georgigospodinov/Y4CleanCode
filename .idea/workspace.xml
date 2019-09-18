@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbbb3320-bd89-42dd-afb5-26a0f581483b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CleanCode$GameTest_orderedGuess.ic" NAME="GameTest.orderedGuess Coverage Results" MODIFIED="1549705063918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uk.ac.standrews.cs5031.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CleanCode$CleanCode__build_jacocoTestReport_.ic" NAME="CleanCode [build jacocoTestReport] Coverage Results" MODIFIED="1549712352871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CleanCode$CleanCode__build_test_.ic" NAME="CleanCode [build test] Coverage Results" MODIFIED="1550314829395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CleanCode$OptionsParserTest.ic" NAME="OptionsParserTest Coverage Results" MODIFIED="1549627578223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uk.ac.standrews.cs5031.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="235" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CleanCode" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CleanCode" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Hangman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+              <folding>
+                <element signature="docComment;class#Hangman#0" />
+                <element signature="docComment;field#reader#0;class#Hangman#0" />
+                <element signature="docComment;method#instantiateReader#0;class#Hangman#0" />
+                <element signature="method#instantiateReader#0;class#Hangman#0" />
+                <element signature="docComment;method#isYes#0;class#Hangman#0" />
+                <element signature="method#isYes#0;class#Hangman#0" />
+                <element signature="docComment;method#isNo#0;class#Hangman#0" />
+                <element signature="method#isNo#0;class#Hangman#0" />
+                <element signature="docComment;method#doesPlayerWantAnotherGame#0;class#Hangman#0" />
+                <element signature="method#doesPlayerWantAnotherGame#0;class#Hangman#0" />
+                <element signature="e#2249#2547#1" />
+                <element signature="e#2339#2383#1" />
+                <element signature="e#2414#2459#1" />
+                <element signature="docComment;method#playGamesUntilQuit#0;class#Hangman#0" />
+                <element signature="method#playGamesUntilQuit#0;class#Hangman#0" />
+                <element signature="docComment;method#main#0;class#Hangman#0" />
+                <element signature="method#main#0;class#Hangman#0" />
+                <element signature="e#3700#3761#0" />
+                <element signature="e#3794#3873#0" />
+                <element signature="e#3915#3960#0" />
+                <element signature="e#3993#4052#0" />
+                <element signature="e#4065#4110#0" />
+                <element signature="e#4164#4215#0" />
+                <element signature="docComment;method#Hangman#0;class#Hangman#0" />
+                <element signature="method#Hangman#0;class#Hangman#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <analyzeAfterAutoMake>true</analyzeAfterAutoMake>
+    <runInBackground>true</runInBackground>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LinkedHashSet</find>
+      <find>HashSet</find>
+      <find>phrase_sources</find>
+      <find>System.setIn(</find>
+      <find>EOF</find>
+      <find>Buff</find>
+      <find>\u001a</find>
+      <find>u001a</find>
+      <find>utf-8</find>
+      <find>simulateExecution</find>
+      <find>new Scanner</find>
+      <find>OptionsParser.reset()</find>
+      <find>reset()</find>
+      <find>OptionsParser.reset();</find>
+      <find>redirectInput</find>
+      <find>System.in</find>
+      <find>reader</find>
+      <find>TestingUtils.redirectInput(&quot;</find>
+      <find>parseAndValidate</find>
+      <find>providedNo</find>
+      <find>.play</find>
+      <find>phraseSource</find>
+      <find>resources/expected_outputs/</find>
+      <find>expectOutput</find>
+      <find>Should not happen.</find>
+      <find>log.txt</find>
+      <find>public</find>
+      <find>//</find>
+      <find>sep</find>
+      <find>word</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>the player</replace>
+      <replace>amount</replace>
+      <replace>Shot not happen</replace>
+      <replace>phrase</replace>
+      <replace>phrase_sources</replace>
+      <replace />
+      <replace>HashSet</replace>
+      <replace>LinkedHashSet</replace>
+      <replace>TestingUtils.expectOutput</replace>
+      <replace>TestingUtils.redirectInput</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/CommandOptsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/CommandOpts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Options.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/InvlidFileException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/package-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/AllTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/WordsTest.java" />
+        <option value="$PROJECT_DIR$/word_sources/valid.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Words.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/GameStateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/GameState.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/package-info.java" />
+        <option value="$PROJECT_DIR$/phrase_sources/single.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_in_order_correct.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_only_wrong.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_instant_guess.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_incorrect_full_guesses.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_repeat_letter.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_early_exit.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_ask_for_hints.txt" />
+        <option value="$PROJECT_DIR$/resources/phrase_sources/one_letter.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/one_letter_ask_for_hints.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/one_letter_run_out_of_hints.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_case_insensitive.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/OptionsParser.java" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_invalid_lives.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_invalid_hints.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_ends_on_no.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_repeat_on_yes.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_category_not_recognized.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/OptionsParserTest.java" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_various_spellings.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/execution_invalid_answer.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/missing_custom_phrases.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Phrases.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/HangmanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Hangman.java" />
+        <option value="$PROJECT_DIR$/.hgignore" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/single_empty_guess.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Game.java" />
+        <option value="$PROJECT_DIR$/resources/phrase_sources/two_word_phrase.txt" />
+        <option value="$PROJECT_DIR$/resources/phrase_sources/multi_word_phrase.txt" />
+        <option value="$PROJECT_DIR$/log.txt" />
+        <option value="$PROJECT_DIR$/resources/expected_outputs/multi_word_phrase_auto_spaces.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/GameTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/PhrasesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/TestingUtils.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="width" value="1080" />
+    <option name="height" value="1920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CleanCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CleanCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CleanCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CleanCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551698978534" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="uk.ac.standrews.cs5031" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.CleanCode [build test]">
+    <configuration name="CleanCode [build jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CleanCode [build run]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CleanCode [build test]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CleanCode [srcJavadoc testJavadoc]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="srcJavadoc" />
+            <option value="testJavadoc" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameTest.emptyGuess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SEP.CleanCode.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.standrews.cs5031.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.standrews.cs5031" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.standrews.cs5031.GameTest" />
+      <option name="METHOD_NAME" value="emptyGuess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.revealedSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SEP.CleanCode.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.standrews.cs5031.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.standrews.cs5031" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.standrews.cs5031.GameTest" />
+      <option name="METHOD_NAME" value="revealedSpaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CleanCode [build test]" />
+      <item itemvalue="Gradle.CleanCode [srcJavadoc testJavadoc]" />
+      <item itemvalue="Gradle.CleanCode [build jacocoTestReport]" />
+      <item itemvalue="Gradle.CleanCode [build run]" />
+      <item itemvalue="JUnit.GameTest.emptyGuess" />
+      <item itemvalue="JUnit.GameTest.revealedSpaces" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest.revealedSpaces" />
+        <item itemvalue="JUnit.GameTest.emptyGuess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbbb3320-bd89-42dd-afb5-26a0f581483b" name="Default Changelist" comment="" />
+      <created>1549388431645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549388431645</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Performance optimizations.">
+      <created>1549639295421</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1549639295421</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Optimized checking of guess. Required replacing Scanner with Buffered Reader. This should make testing easier.">
+      <created>1549642096741</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1549642096741</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Small fixes, so as to comply with Sun's Java Conventions.">
+      <created>1549642599861</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1549642599861</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Small fixes, so as to comply with Sun's Java Conventions.">
+      <created>1549643297428</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1549643297428</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Small test for Game. Other tests will require files with input and output to compare.">
+      <created>1549644468627</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1549644468627</updated>
+    </task>
+    <task id="LOCAL-00044" summary="A proper test for Game.java. (Includes respective debugs and restructuring of resource files.)">
+      <created>1549707847950</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1549707847950</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Replaced BufferedReader in Game.java with Scanner to simplify input reading. Re-wrote a test to account for new expected behaviour.">
+      <created>1549709394373</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1549709394373</updated>
+    </task>
+    <task id="LOCAL-00046" summary="One more Game test for wrong guesses only.">
+      <created>1549711152970</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1549711152970</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Extracted some common operations into methods.">
+      <created>1549711886048</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1549711886048</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Replaced BufferedReader with Scanner to simplify method. Tests will still use BufferedReader, so as to make a difference between testing and implementation and guarantee that the system works as intended.">
+      <created>1549712474042</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1549712474042</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Minor fix, so as to comply with Sun code conventions (line length in this case).">
+      <created>1549712560949</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1549712560949</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Game test. Guessing the whole word from a single attempt.">
+      <created>1549712984463</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1549712984464</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Game test. Failing to guess the whole word multiple times.">
+      <created>1549713414432</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1549713414432</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Game test. Repeated guess has no effect.">
+      <created>1549714104840</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1549714104840</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Game test. Exit early has no Game Over message.">
+      <created>1549714510135</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1549714510135</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Game test. One letter hint.">
+      <created>1549715470486</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1549715470486</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Output remaining hints. Updated test expectations.">
+      <created>1549717352470</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1549717352470</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Game test. Run out of hints.">
+      <created>1549717751255</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1549717751255</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Game test. Case insensitive input. Also optimized hasLost().">
+      <created>1549718142184</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1549718142184</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Optimized GameTest.java.">
+      <created>1549718730093</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1549718730093</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Haven't been updating version...">
+      <created>1549718875206</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1549718875206</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Empty HangmanTest.java.">
+      <created>1549719200144</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1549719200144</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Small test for Hangman. Invalid lives amount.&#10;(and constant messages for that)">
+      <created>1549723514576</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1549723514576</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Extended Hangman to allow replays.">
+      <created>1549724693639</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1549724693639</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Hangman test with invalid hints.">
+      <created>1549727181802</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549727181802</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Extracted replay to a separate method.">
+      <created>1549728313827</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1549728313827</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Making a difference between simulating a single game and an execution of the system (which can play multiple games).">
+      <created>1549728616515</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1549728616516</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Optimized tests by moving option initialisation in the OptionParse.parseAndValidate().">
+      <created>1549729052429</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1549729052429</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Optimized comparison. Argument is converted to lower case anyway, so simple .equals() should be more efficient.">
+      <created>1549729298697</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1549729298697</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Extracted common testing methods to a separate utility class.">
+      <created>1549731405313</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1549731405313</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Two more test for Hangman. One of which fails for some reason...">
+      <created>1549734244770</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1549734244770</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Came up with two more tests for Game. Also found out that the 'no' test in HangmanTest.java was passing for unexpected reasons... Thank you jacoco for pointing that out.">
+      <created>1549735442858</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1549735442858</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Fixed input reading issue. Hangman and Game can read the same stream. Game can re-access at any point. Tests pass.">
+      <created>1550143289389</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1550143289390</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Potential bug fix.">
+      <created>1550144601834</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1550144601835</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Test debug">
+      <created>1550144867956</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1550144867956</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Yes-No inputs for new game.">
+      <created>1550145648344</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1550145648344</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Unrecognized answer for new game.">
+      <created>1550146194421</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1550146194421</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Created a constant String containing the name of the folder with the expected outputs, so as to simplify tests.">
+      <created>1550146713236</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1550146713236</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Missing custom phrases test.">
+      <created>1550147193661</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1550147193661</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Final debugs thanks to FindBug.">
+      <created>1550147495078</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1550147495078</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Privatized a method that should not have been public.">
+      <created>1550147784585</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1550147784585</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Started report">
+      <created>1550308179025</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1550308179029</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Reached JavaDoc section of report and decided to add javadoc generation as a gradle task.">
+      <created>1550313713320</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1550313713320</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Empty guess test and debug.">
+      <created>1550314177767</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1550314177767</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Spaces should be automatically revealed (test and debug).">
+      <created>1550314875960</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1550314875960</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Report update (probably done with the Unit Test section).">
+      <created>1550317589911</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1550317589911</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Finished report.">
+      <created>1550321340442</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1550321340442</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Added javadoc generation command to README.txt">
+      <created>1550321476722</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1550321476722</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Forgot new line at end of README">
+      <created>1550321667343</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1550321667343</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameTest_emptyGuess - 2019.02.16 at 10h 48m 12s.xml">
+      <configuration name="GameTest.emptyGuess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_emptyGuess - 2019.02.16 at 10h 49m 20s.xml">
+      <configuration name="GameTest.emptyGuess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CleanCode_[build_test] - 2019.02.16 at 10h 49m 27s.xml">
+      <configuration name="CleanCode [build test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GameTest_revealedSpaces - 2019.02.16 at 10h 58m 20s.xml">
+      <configuration name="GameTest.revealedSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_revealedSpaces - 2019.02.16 at 10h 59m 25s.xml">
+      <configuration name="GameTest.revealedSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_revealedSpaces - 2019.02.16 at 10h 59m 44s.xml">
+      <configuration name="GameTest.revealedSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_revealedSpaces - 2019.02.16 at 11h 00m 16s.xml">
+      <configuration name="GameTest.revealedSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CleanCode_[build_test] - 2019.02.16 at 11h 00m 22s.xml">
+      <configuration name="CleanCode [build test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CleanCode_[build_test] - 2019.02.16 at 11h 00m 33s.xml">
+      <configuration name="CleanCode [build test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CleanCode_[build_test] - 2019.03.02 at 09h 07m 39s.xml">
+      <configuration name="CleanCode [build test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30367506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978126" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39988783" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978126" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978126" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32978126" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32978126" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.3292204" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32978126" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32978126" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49958158" weight="0.24951644" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32978722" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32978722" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5004184" side_tool="true" weight="0.5696325" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29303676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978126" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978126" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978126" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32978126" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32978126" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.3292204" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32978126" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32978126" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49958158" weight="0.24951644" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32978722" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32978722" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5004184" side_tool="true" weight="0.5696325" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Hangman test with invalid hints." />
+    <MESSAGE value="Extracted replay to a separate method." />
+    <MESSAGE value="Making a difference between simulating a single game and an execution of the system (which can play multiple games)." />
+    <MESSAGE value="Optimized tests by moving option initialisation in the OptionParse.parseAndValidate()." />
+    <MESSAGE value="Optimized comparison. Argument is converted to lower case anyway, so simple .equals() should be more efficient." />
+    <MESSAGE value="Extracted common testing methods to a separate utility class." />
+    <MESSAGE value="Two more test for Hangman. One of which fails for some reason..." />
+    <MESSAGE value="Came up with two more tests for Game. Also found out that the 'no' test in HangmanTest.java was passing for unexpected reasons... Thank you jacoco for pointing that out." />
+    <MESSAGE value="Fixed input reading issue. Hangman and Game can read the same stream. Game can re-access at any point. Tests pass." />
+    <MESSAGE value="Potential bug fix." />
+    <MESSAGE value="Test debug" />
+    <MESSAGE value="Yes-No inputs for new game." />
+    <MESSAGE value="Unrecognized answer for new game." />
+    <MESSAGE value="Created a constant String containing the name of the folder with the expected outputs, so as to simplify tests." />
+    <MESSAGE value="Missing custom phrases test." />
+    <MESSAGE value="Final debugs thanks to FindBug." />
+    <MESSAGE value="Privatized a method that should not have been public." />
+    <MESSAGE value="Started report" />
+    <MESSAGE value="Reached JavaDoc section of report and decided to add javadoc generation as a gradle task." />
+    <MESSAGE value="Empty guess test and debug." />
+    <MESSAGE value="Spaces should be automatically revealed (test and debug)." />
+    <MESSAGE value="Report update (probably done with the Unit Test section)." />
+    <MESSAGE value="Finished report." />
+    <MESSAGE value="Added javadoc generation command to README.txt" />
+    <MESSAGE value="Forgot new line at end of README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forgot new line at end of README" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/AllTests.java" />
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html" />
+    <entry file="file://$PROJECT_DIR$/resources/phrase_sources/valid.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_only_correct.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/io/FileNotFoundException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_only_wrong.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_correct_full_guess.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_incorrect_full_guesses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_repeat_letter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_early_exit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/phrase_sources/single.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/one_letter_ask_for_hints.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/phrase_sources/one_letter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/one_letter_run_out_of_hints.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_case_insensitive.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/nio/charset/StandardCharsets.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_invalid_lives.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_invalid_hints.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_category_not_recognized.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_ends_on_no.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_repeat_on_yes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class" />
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runners/ParentRunner.class" />
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/internal/runners/model/EachTestNotifier.class" />
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runner/notification/Failure.class" />
+    <entry file="jar://$PROJECT_DIR$/../../../../../../scratch/gg50/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="file://$PROJECT_DIR$/doNotPutMeInMercurial.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_various_spellings.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_y_n.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/execution_invalid_answer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/missing_custom_phrases.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.hgignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/single_empty_guess.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/phrase_sources/multi_word_phrase.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/expected_outputs/multi_word_phrase_auto_spaces.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/GameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/TestingUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="57" lean-forward="true" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/OptionsParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/PhrasesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/ac/standrews/cs5031/HangmanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1138">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Phrases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="docComment;class#Phrases#0" />
+            <element signature="docComment;field#GENERATOR#0;class#Phrases#0" />
+            <element signature="docComment;field#CUSTOM_ID#0;class#Phrases#0" />
+            <element signature="docComment;field#COUNTRIES_ID#0;class#Phrases#0" />
+            <element signature="docComment;field#COUNTIES_ID#0;class#Phrases#0" />
+            <element signature="docComment;field#CITIES_ID#0;class#Phrases#0" />
+            <element signature="docComment;field#custom#0;class#Phrases#0" />
+            <element signature="docComment;field#COUNTRIES#0;class#Phrases#0" />
+            <element signature="docComment;field#COUNTIES#0;class#Phrases#0" />
+            <element signature="docComment;field#CITIES#0;class#Phrases#0" />
+            <element signature="docComment;method#loadCustom#0;class#Phrases#0" />
+            <element signature="method#loadCustom#0;class#Phrases#0" />
+            <element signature="e#2039#2097#1" />
+            <element signature="e#2337#2405#1" />
+            <element signature="e#2467#2555#1" />
+            <element signature="docComment;method#getRandomPhrase#0;class#Phrases#0" />
+            <element signature="method#getRandomPhrase#0;class#Phrases#0" />
+            <element signature="e#2952#3774#0" />
+            <element signature="e#3018#3173#1" />
+            <element signature="e#3179#3302#1" />
+            <element signature="docComment;method#Phrases#0;class#Phrases#0" />
+            <element signature="method#Phrases#0;class#Phrases#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/OptionsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#OptionsParser#0" />
+            <element signature="docComment;field#LIVES_OPTION#0;class#OptionsParser#0" />
+            <element signature="docComment;field#MAX_HINTS_OPTION#0;class#OptionsParser#0" />
+            <element signature="docComment;field#DEFAULT_LIVES#0;class#OptionsParser#0" />
+            <element signature="docComment;field#DEFAULT_MAX_HINTS#0;class#OptionsParser#0" />
+            <element signature="docComment;field#NO_PHRASE_SOURCE#0;class#OptionsParser#0" />
+            <element signature="docComment;field#INVALID_LIVES#0;class#OptionsParser#0" />
+            <element signature="docComment;field#INVALID_HINTS#0;class#OptionsParser#0" />
+            <element signature="docComment;field#lives#0;class#OptionsParser#0" />
+            <element signature="docComment;field#maxHints#0;class#OptionsParser#0" />
+            <element signature="docComment;field#phraseSource#0;class#OptionsParser#0" />
+            <element signature="docComment;method#getLives#0;class#OptionsParser#0" />
+            <element signature="docComment;method#getMaxHints#0;class#OptionsParser#0" />
+            <element signature="docComment;method#getPhraseSource#0;class#OptionsParser#0" />
+            <element signature="docComment;method#areThereCustomPhrases#0;class#OptionsParser#0" />
+            <element signature="method#areThereCustomPhrases#0;class#OptionsParser#0" />
+            <element signature="docComment;method#parseAndValidate#0;class#OptionsParser#0" />
+            <element signature="method#parseAndValidate#0;class#OptionsParser#0" />
+            <element signature="docComment;method#initialise#0;class#OptionsParser#0" />
+            <element signature="method#initialise#0;class#OptionsParser#0" />
+            <element signature="docComment;method#parse#0;class#OptionsParser#0" />
+            <element signature="method#parse#0;class#OptionsParser#0" />
+            <element signature="e#3609#3957#1" />
+            <element signature="e#3657#3748#1" />
+            <element signature="e#3792#3886#1" />
+            <element signature="e#3892#3947#1" />
+            <element signature="docComment;method#validateOptions#0;class#OptionsParser#0" />
+            <element signature="method#validateOptions#0;class#OptionsParser#0" />
+            <element signature="e#4281#4352#1" />
+            <element signature="e#4379#4450#1" />
+            <element signature="docComment;method#OptionsParser#0;class#OptionsParser#0" />
+            <element signature="method#OptionsParser#0;class#OptionsParser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="123" column="44" selection-start-line="123" selection-start-column="44" selection-end-line="123" selection-end-column="44" />
+          <folding>
+            <element signature="docComment;class#Game#0" />
+            <element signature="docComment;field#CATEGORY_NOT_RECOGNIZED#0;class#Game#0" />
+            <element signature="docComment;field#reader#0;class#Game#0" />
+            <element signature="docComment;field#phrase#0;class#Game#0" />
+            <element signature="docComment;field#guessesMade#0;class#Game#0" />
+            <element signature="docComment;field#lives#0;class#Game#0" />
+            <element signature="docComment;field#hints#0;class#Game#0" />
+            <element signature="docComment;field#guessedLetters#0;class#Game#0" />
+            <element signature="docComment;field#remainingLetters#0;class#Game#0" />
+            <element signature="docComment;method#play#0;class#Game#0" />
+            <element signature="method#play#0;class#Game#0" />
+            <element signature="docComment;method#instantiateReader#0;class#Game#0" />
+            <element signature="method#instantiateReader#0;class#Game#0" />
+            <element signature="e#2127#2175#1" />
+            <element signature="e#2181#2285#1" />
+            <element signature="docComment;method#printGameOverMessage#0;class#Game#0" />
+            <element signature="method#printGameOverMessage#0;class#Game#0" />
+            <element signature="e#2518#2699#1" />
+            <element signature="e#2720#2829#1" />
+            <element signature="docComment;method#setUp#0;class#Game#0" />
+            <element signature="method#setUp#0;class#Game#0" />
+            <element signature="e#3361#3471#1" />
+            <element signature="docComment;method#determineTarget#0;class#Game#0" />
+            <element signature="method#determineTarget#0;class#Game#0" />
+            <element signature="e#4025#4105#1" />
+            <element signature="e#4409#4457#1" />
+            <element signature="e#4513#4916#1" />
+            <element signature="e#4531#4653#0" />
+            <element signature="e#4689#4765#0" />
+            <element signature="e#4799#4906#0" />
+            <element signature="docComment;method#formatCategory#0;class#Game#0" />
+            <element signature="method#formatCategory#0;class#Game#0" />
+            <element signature="docComment;method#mainLoop#0;class#Game#0" />
+            <element signature="method#mainLoop#0;class#Game#0" />
+            <element signature="e#5618#5862#1" />
+            <element signature="e#5751#5821#1" />
+            <element signature="docComment;method#hasWon#0;class#Game#0" />
+            <element signature="docComment;method#hasLost#0;class#Game#0" />
+            <element signature="docComment;method#printPhrase#0;class#Game#0" />
+            <element signature="method#printPhrase#0;class#Game#0" />
+            <element signature="e#6645#6928#1" />
+            <element signature="e#6799#6858#1" />
+            <element signature="e#6864#6918#1" />
+            <element signature="docComment;method#printState#0;class#Game#0" />
+            <element signature="method#printState#0;class#Game#0" />
+            <element signature="docComment;method#checkGuess#0;class#Game#0" />
+            <element signature="method#checkGuess#0;class#Game#0" />
+            <element signature="e#7828#7875#1" />
+            <element signature="e#7903#7956#1" />
+            <element signature="docComment;method#checkFullPhrase#0;class#Game#0" />
+            <element signature="method#checkFullPhrase#0;class#Game#0" />
+            <element signature="e#8383#8485#1" />
+            <element signature="e#8491#8565#1" />
+            <element signature="docComment;method#checkLetter#0;class#Game#0" />
+            <element signature="method#checkLetter#0;class#Game#0" />
+            <element signature="e#8916#8947#1" />
+            <element signature="e#9079#9178#1" />
+            <element signature="e#9184#9258#1" />
+            <element signature="docComment;method#printHint#0;class#Game#0" />
+            <element signature="method#printHint#0;class#Game#0" />
+            <element signature="e#9404#9493#1" />
+            <element signature="docComment;method#Game#0;class#Game#0" />
+            <element signature="method#Game#0;class#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/standrews/cs5031/Hangman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Hangman#0" />
+            <element signature="docComment;field#reader#0;class#Hangman#0" />
+            <element signature="docComment;method#instantiateReader#0;class#Hangman#0" />
+            <element signature="method#instantiateReader#0;class#Hangman#0" />
+            <element signature="docComment;method#isYes#0;class#Hangman#0" />
+            <element signature="method#isYes#0;class#Hangman#0" />
+            <element signature="docComment;method#isNo#0;class#Hangman#0" />
+            <element signature="method#isNo#0;class#Hangman#0" />
+            <element signature="docComment;method#doesPlayerWantAnotherGame#0;class#Hangman#0" />
+            <element signature="method#doesPlayerWantAnotherGame#0;class#Hangman#0" />
+            <element signature="e#2249#2547#1" />
+            <element signature="e#2339#2383#1" />
+            <element signature="e#2414#2459#1" />
+            <element signature="docComment;method#playGamesUntilQuit#0;class#Hangman#0" />
+            <element signature="method#playGamesUntilQuit#0;class#Hangman#0" />
+            <element signature="docComment;method#main#0;class#Hangman#0" />
+            <element signature="method#main#0;class#Hangman#0" />
+            <element signature="e#3700#3761#0" />
+            <element signature="e#3794#3873#0" />
+            <element signature="e#3915#3960#0" />
+            <element signature="e#3993#4052#0" />
+            <element signature="e#4065#4110#0" />
+            <element signature="e#4164#4215#0" />
+            <element signature="docComment;method#Hangman#0;class#Hangman#0" />
+            <element signature="method#Hangman#0;class#Hangman#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CleanCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
